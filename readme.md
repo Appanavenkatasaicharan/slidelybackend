@@ -11,8 +11,8 @@ This backend server is built using Express.js and TypeScript. It uses a JSON fil
 
 1. **Clone the repository**:
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/Appanavenkatasaicharan/slidelybackend
+    cd slidelybackend
     ```
 
 2. **Install dependencies**:
